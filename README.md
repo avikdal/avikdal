@@ -39,7 +39,7 @@ So, whether you're searching for a junior developer, want to share sourdough tip
 
 
 <h3 align="left">Connect with me:</h3> 
-<div align="center">
+<div align="left">
 <a href="https://github.com/avikdal" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>
